@@ -1,5 +1,11 @@
 # PvZ2Native WDRPC
 
+> **This repository has moved / Este repositorio se ha mudado**
+>
+> The project now lives at **[Onyxdum/PvZ2NativeWDRPC](https://github.com/Onyxdum/PvZ2NativeWDRPC)**. I moved it because GitHub hides forks from its search, so almost nobody could find it. Same code, same history and every release is there too. If you already have the game installed you don't need to do anything, the updater already looks in the new place. This copy is archived and won't get any more updates.
+>
+> El proyecto ahora está en **[Onyxdum/PvZ2NativeWDRPC](https://github.com/Onyxdum/PvZ2NativeWDRPC)**. Lo moví porque GitHub oculta los forks en su buscador y casi nadie lo encontraba. Es el mismo código, con todo el historial y todas las releases. Si ya tienes el juego instalado no tienes que hacer nada, el actualizador ya busca en el sitio nuevo. Esta copia está archivada y no va a recibir más cambios.
+
 📖 [Español](README_SPANISH.md) · **English**
 
 **Plants vs. Zombies 2 on PC, and it plays like a PC game.** This is a fork of [ea192000/PvZ2Native](https://github.com/ea192000/PvZ2Native), itself based on [OptiJuegos/PvZ2Native](https://github.com/OptiJuegos/PvZ2Native). Those projects run the real Android `libPVZ2.so` natively on Windows and Linux. This fork adds what you'd expect from a desktop release: **Discord Rich Presence**, **cloud saves**, **Battlez against real people again (live or against replays)**, a **friends list**, a **console-style controller mode with rumble**, **extra difficulty modes**, **Steam integration** and an **auto-updater**. One executable runs both **v4.5.2** and **v6.6.1**.
